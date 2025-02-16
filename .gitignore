@@ -1,0 +1,10 @@
+.idea/
+*.obj
+*.o
+cl
+*.ilk
+*.pdb
+*.rdi
+*.exe
+humanim_debug
+humanim_debug.dSYM/
